@@ -1,4 +1,4 @@
-Join Us
+Ressources
 =======
 
-Join Us section in Mozilla Tunisia Website.
+Ressources  section in Mozilla Tunisia Website.
